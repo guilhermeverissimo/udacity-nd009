@@ -18,6 +18,9 @@ In this project I used machine learning techniques to develop an identification 
     - All data is published for purpose of this work only. However, if you intend to use the data in your future research you may do it only if the databases are acknowledged with the following reference: 
         >KASPROWSKI, P., OBER, J. 2004. Eye Movement in Biometrics, In Proceedings of Biometric Authentication Workshop, European Conference on Computer Vision in Prague 2004, LNCS 3087, Springer-Verlag.the IEEE/IARP International Conference on Biometrics (ICB), pp. 1-8.
 
+## Notes
+In this README I present only an overview. For all details regarding this project I strongly recommend you to read the final report.
+
 ## License
 All directories and files are MIT Licensed. Feel free to use contents as you please. If you do use them, a link back to https://github.com/guilhermeverissimo would be appreciated, but is not required.
 
