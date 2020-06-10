@@ -1,0 +1,16 @@
+http://www.kasprowski.pl/emvic2012/emd.php
+
+
+EMD 1 format
+Datasets A and B downloadable for competition are available in EMD1 (eye movement data) format. The format is extremely simple  it is a text file with one line for every sample. Every line is a list of tab separated elements as follows:
+
+sid sx sy lx rx ly ry
+where:
+sid - subject identifier (in textual format: aXX)
+sx - list of 2048 tab separated values of stimulus point placements on X axis (horizontal).
+sy - list of 2048 tab separated values of stimulus point placements on Y axis (vertical).
+lx - list of 2048 tab separated values of left eye gaze points on X axis.
+ly - list of 2048 tab separated values of left eye gaze points on Y axis.
+rx - list of 2048 tab separated values of right eye gaze points on X axis.
+ry - list of 2048 tab separated values of right eye gaze points on Y axis.
+The values are 0 for point in the middle, positive for point on the right or upper side of the screen and negative for points on the left or lower side of the screen.
