@@ -5,7 +5,7 @@ Human identification has always been a very important problem in our world. Not 
 In this project I used machine learning techniques to develop an identification method based on eyes movement data, as proposed by Kasprowski and Komogortsev in the First Eye Movements' Verification and Identification Competition in the IEEE Fifth International Conference on Biometrics: Theory, Applications and Systems (BTAS 2012) [5]. 
 
 ## Contents
-- Project **(Read to understand the problem and the solution.)**
+- Project **(Read it to understand the problem and the solution.)**
     - proposal.pdf: outline the details of the problem, my research and proposes an approach to a solution.
     - project.pdf: final report submitted. 
 - Implementation
@@ -22,7 +22,7 @@ In this project I used machine learning techniques to develop an identification 
 In this README I present only an overview. For all details regarding this project I strongly recommend you to read the final report.
 
 ## License
-All directories and files are MIT Licensed. Feel free to use contents as you please. If you do use them, a link back to https://github.com/guilhermeverissimo would be appreciated, but is not required.
+Except by datasets provided (mentioned above), all directories and files are MIT Licensed. Feel free to use contents as you please. If you do use them, a link back to https://github.com/guilhermeverissimo would be appreciated, but is not required.
 
 ## References
 - [1]Kasprowski, P. (2012), "EMVIC - Eye Movements' Verification and Identification Competition", http://www.kasprowski.pl/emvic2012/biometrics.php. [Accessed: 10-May-2019].
