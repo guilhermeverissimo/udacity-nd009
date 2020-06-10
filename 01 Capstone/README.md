@@ -5,13 +5,13 @@ Human identification has always been a very important problem in our world. Not 
 In this project I used machine learning techniques to develop an identification method based on eyes movement data, as proposed by Kasprowski and Komogortsev in the First Eye Movements' Verification and Identification Competition in the IEEE Fifth International Conference on Biometrics: Theory, Applications and Systems (BTAS 2012) [5]. 
 
 ## Contents
-- Project files **(Read it to understand the problem and the solution.)**
+- Project **(Read to understand the problem and the solution.)**
     - proposal.pdf: outline the details of the problem, my research and proposes an approach to a solution.
     - project.pdf: final report submitted. 
-- Implementation files
+- Implementation
     - solutionRF.ipynb: main notebook.
     - utils.py: auxiliary functions.
-- Data files directory
+- Datasets
     - All data provided was collected by Dr. Paweł Kasprowski at Silesian University of Technology, Poland [6] and consists as samples from 37 subjects, each sample consisting in 2048 measures. 
     - Files used in this work were obtained directly with Mr. Kasproskwi, since files available at Kaggle does not have label informations for test data and the link for the files at BTAS2012 competition site [7] were not working.
     - Datasets structures are discussed in the final report.
