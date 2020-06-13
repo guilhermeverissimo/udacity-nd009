@@ -6,11 +6,11 @@ Description by Udacity
 ## Contents
 - Implementation
     - finding_donors.ipynb: main notebook.
+    Answers (codes and textual entries) were written by me. Questions and information regarding the problem were provided by Udacity.
 - Data:
     - census.csv: census data provided by Udacity.
     This dataset consists of approximately 32,000 data points, with each datapoint having 13 features. It is a modified version of the dataset published originaly by Ron Kohavi [1].
-
-
+    
 ## License
 Except by dataset provided, all directories and files are MIT Licensed. Feel free to use contents as you please. If you do use them, a link back to https://github.com/guilhermeverissimo would be appreciated, but is not required.
 
