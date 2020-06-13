@@ -5,6 +5,9 @@ My implementations from the Udacity course.
 ### 01. Capstone Project
 This project is focused on solving the **Kaggle** competition ***Eye Movements Verification and Identification*** [1] to determine how people may be identified based on their eyes movement characteristics. Details in README inside project folder.
 
+### 02. Supervised Learning Project: Finding Donors for *CharityML*
+Using supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census.
+
 ## Notes
 - All implementations are the final versions submitted during the course.
 
