@@ -2,7 +2,7 @@
 My implementations from the Udacity course.
 
 ## Contents
-### 01. Capstone Project
+### 01. Capstone Project: Subject Identification By Eyes Movement
 This project is focused on solving the **Kaggle** competition ***Eye Movements Verification and Identification*** [1] to determine how people may be identified based on their eyes movement characteristics. Details in README inside project folder.
 
 ### 02. Supervised Learning Project: Finding Donors for *CharityML*
