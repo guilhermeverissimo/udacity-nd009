@@ -8,6 +8,9 @@ This project is focused on solving the **Kaggle** competition ***Eye Movements V
 ### 02. Supervised Learning Project: Finding Donors for *CharityML*
 Using supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census.
 
+### 03. Unsupervised Learning Project: Creating Customer Segments
+Using unsupervised learning techniques to identify customer segments hidden in product spending data collected for customers of a wholesale distributor in Lisbon, Portugal.
+
 ## Notes
 - All implementations are the final versions submitted during the course.
 
